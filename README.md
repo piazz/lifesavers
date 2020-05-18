@@ -1,0 +1,1 @@
+Helpful Javascript utility functions.
