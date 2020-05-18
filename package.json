@@ -9,8 +9,9 @@
     "lint": "eslint",
     "test": "jest"
   },
-  "author": "",
+  "author": "Michael Piazza",
   "license": "ISC",
+  "repository:": "https://github.com/piazzatron/lifesavers",
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/preset-env": "^7.9.6",
